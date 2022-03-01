@@ -1,2 +1,2 @@
 # Reviews-Classification
-Detecting positive and negative reviews BERT classifier and pytorch
+ I am pending updating this notebook till I get the final results
